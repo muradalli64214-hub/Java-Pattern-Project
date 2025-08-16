@@ -35,7 +35,7 @@ This project covers:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1️⃣ Clone this repository
 
-git clone https://github.com/your-username/PatternProject.git
+git clone https://github.com/muradalli64214-hub/Java-Pattern-Project.git
 
 
 2️⃣ Open in any Java IDE (Eclipse, IntelliJ, VS Code) or simply use terminal
