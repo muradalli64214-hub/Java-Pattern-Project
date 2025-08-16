@@ -43,6 +43,7 @@ git clone https://github.com/muradalli64214-hub/Java-Pattern-Project.git
 3️⃣ Compile & Run the project
 
 javac PatternProject.java
+
 java PatternProject
 
 🎯 Learning Goals
@@ -61,4 +62,5 @@ By exploring this project, you’ll practice:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 Murad Ali
 📌 Student of BCA
+
 ✨ Exploring Java & building fun projects
